@@ -1,3 +1,4 @@
-info: spring-cloud-config-test
-version: 1.0
-port: 2984
+config:  
+  info: spring-cloud-config-test
+  version: 1.0
+  port: 2984
